@@ -1,7 +1,6 @@
 package patrones.estructurales.decorator;
 
 import models.Producto;
-import patrones.estructurales.ProductoDecorator;
 
 public class ExtraCrema extends ProductoDecorator {
     public ExtraCrema(Producto producto) {

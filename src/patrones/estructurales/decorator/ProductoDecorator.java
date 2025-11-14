@@ -1,4 +1,4 @@
-package patrones.estructurales;
+package patrones.estructurales.decorator;
 
 import models.Producto;
 
