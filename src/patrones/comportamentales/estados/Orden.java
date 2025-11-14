@@ -1,8 +1,8 @@
-package models;
+package patrones.comportamentales.estados;
 
-import patrones.comportamentales.EstadoLista;
-import patrones.comportamentales.StateOrden;
-import patrones.comportamentales.EstadoPendiente;
+import models.Producto;
+import patrones.comportamentales.estados.StateOrden;
+import patrones.comportamentales.estados.EstadoPendiente;
 
 import java.time.LocalDateTime;
 import java.time.format.DateTimeFormatter;

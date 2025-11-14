@@ -1,6 +1,4 @@
-package patrones.comportamentales;
-
-import models.Orden;
+package patrones.comportamentales.estados;
 
 public class EstadoPendiente implements StateOrden {
     @Override

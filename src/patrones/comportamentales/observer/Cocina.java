@@ -1,6 +1,6 @@
-package models;
+package patrones.comportamentales.observer;
 
-import patrones.comportamentales.Observador;
+import patrones.comportamentales.estados.Orden;
 
 public class Cocina implements Observador {
     private String nombre;

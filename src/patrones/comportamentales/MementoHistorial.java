@@ -1,6 +1,6 @@
 package patrones.comportamentales;
 
-import models.Orden;
+import patrones.comportamentales.estados.Orden;
 
 import java.util.ArrayList;
 import java.util.List;

@@ -1,18 +1,18 @@
 package patrones.estructurales;
 
-import models.Orden;
-import models.Cocina;
+import patrones.comportamentales.estados.Orden;
+import patrones.comportamentales.observer.Cocina;
 import models.Producto;
-import models.SistemaNotificaciones;
-import models.Mesero;
+import patrones.comportamentales.observer.SistemaNotificaciones;
+import patrones.comportamentales.observer.Mesero;
 
 import patrones.comportamentales.MementoHistorial;
 import patrones.creacionales.MenuSingleton;
 import patrones.creacionales.OrdenBuilder;
 import patrones.creacionales.ProductoFactory;
 
-import adicionales.ExtraCrema;
-import adicionales.ExtraJarabe;
+import patrones.estructurales.decorator.ExtraCrema;
+import patrones.estructurales.decorator.ExtraJarabe;
 
 import java.util.List;
 import java.util.ArrayList;

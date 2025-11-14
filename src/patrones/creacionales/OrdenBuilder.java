@@ -1,6 +1,6 @@
 package patrones.creacionales;
 
-import models.Orden;
+import patrones.comportamentales.estados.Orden;
 import models.Producto;
 
 public class OrdenBuilder {

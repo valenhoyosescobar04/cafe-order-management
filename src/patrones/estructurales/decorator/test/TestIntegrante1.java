@@ -1,4 +1,4 @@
-package test;
+package patrones.estructurales.decorator.test;
 
 import models.*;
 import patrones.creacionales.ProductoFactory;

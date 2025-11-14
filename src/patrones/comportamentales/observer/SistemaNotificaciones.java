@@ -1,6 +1,6 @@
-package models;
+package patrones.comportamentales.observer;
 
-import patrones.comportamentales.Observador;
+import patrones.comportamentales.estados.Orden;
 
 import java.util.ArrayList;
 import java.util.List;
